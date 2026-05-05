@@ -1,0 +1,15 @@
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Dependency/build folders for future backend/frontend tooling
+node_modules/
+dist/
+build/
+.env
+.env.*

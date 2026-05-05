@@ -1,0 +1,24 @@
+﻿{
+  "business": {
+    "name": "The O Massage And Beauty",
+    "area": "Sukhumvit Soi 2, Bangkok",
+    "phone": "082-987-6496",
+    "line": "@726ohaho",
+    "hours": "Open Daily 10:00 AM - 10:00 PM",
+    "bookingUrl": "https://seeuapp.io/en/beauty/theomassagenailstudio_10110",
+    "lineUrl": "https://line.me/R/ti/p/@726ohaho",
+    "mapUrl": "https://maps.google.com/?q=The+O+Massage+And+Beauty+53/3+Sukhumvit+Soi+2"
+  },
+  "services": [
+    { "name": "Thai Massage", "priceFrom": 650 },
+    { "name": "Aroma & Hot Oil", "priceFrom": 1200 },
+    { "name": "Foot Massage", "priceFrom": 500 },
+    { "name": "Body Scrub & Beauty", "priceFrom": 850 }
+  ],
+  "packages": [
+    { "name": "Tourist Recovery", "tag": "For Tourists" },
+    { "name": "Office Relief", "tag": "After Work" },
+    { "name": "Beauty & Relax", "tag": "Self-Care" },
+    { "name": "Couple Relax", "tag": "For Two" }
+  ]
+}
