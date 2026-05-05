@@ -13,7 +13,7 @@
     { "name": "Thai Massage", "priceFrom": 650 },
     { "name": "Aroma & Hot Oil", "priceFrom": 1200 },
     { "name": "Foot Massage", "priceFrom": 500 },
-    { "name": "Body Scrub & Beauty", "priceFrom": 850 }
+    { "name": "Body Scrub & Beauty", "priceFrom": 1200 }
   ],
   "packages": [
     { "name": "Tourist Recovery", "tag": "For Tourists" },
