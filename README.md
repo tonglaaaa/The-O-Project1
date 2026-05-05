@@ -1,4 +1,4 @@
-﻿# The O Massage And Beauty Website
+# The O Massage And Beauty Website
 
 This folder is a backend-ready version of the original single-file HTML prototype.
 
@@ -21,3 +21,5 @@ Good next backend features would be:
 - service/package data loaded from JSON or backend API instead of hardcoded HTML
 
 For now, the website still works as a static frontend by opening index.html in a browser.
+
+https:tonglaaaa.github.io/The-O-Project1/
